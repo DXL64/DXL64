@@ -2,7 +2,6 @@
   <br/>
   <div align="center">
     <img alt="Loc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DXL64&show_icons=true&count_private=true&theme=algolia" height="150em"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DXL64&langs_count=6&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hoang1007" height="150em"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </div>
