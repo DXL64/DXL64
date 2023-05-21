@@ -13,17 +13,17 @@
 <details>
   <summary> Click to expand </summary>
 
-📌 [**Dec 2022**]: Wav2Vec2 Research and Finetuning
-  * Research and finetuning Wav2Vec2 on Vietnamese speech recognition task.
-  * [Github Repo](https://github.com/hoang1007/wav2vec2.git)
+📌 [**Dec 2022**]: Diffusion Research and Implementation
+  * Research and implement Diffusion on some dataset.
+  * [Github Repo](https://github.com/DXL64/diffusion-model.git)
   
-📌 [**Dec 2022**]: Centernet Object as Points Research and Implementation
-  * Code and research Centernet Object as Points.
-  * [Github Repo](https://github.com/hoang1007/centernet.git)
+📌 [**Dec 2022**]: Resnet Research and Implementation
+  * Code and research Resnet with Lightning + Hydra template
+  * [Github Repo](https://github.com/DXL64/Resnet.git)
   
-📌 [**Jul 2022 - Aug 2022**]: Faster R-CNN Research and Implementation
-  * Code and research Faster R-CNN algorithm.
-  * [Github Repo](https://github.com/hoang1007/faster-rcnn.git)
+📌 [**Jul 2022 - Aug 2022**]: Unet Research and Implementation
+  * Code and research Unet algorithm.
+  * [Github Repo](https://github.com/DXL64/UNet.git)
 
 📌 [**Feb 2022 - Mar 2022**]: Research about Transformer
   * Research about Transformer and finetuning BERT on downstream tasks:
@@ -42,8 +42,8 @@
 
   
 📌 [**Oct 2022**]:
-  * Build mobile application with React Native which tracking user's expenses.
-  * [Github Repo](https://github.com/hoang1007/room-expense-tracker.git)
+  * Build mobile application with React Native which manage students in University.
+  * [Github Repo](https://github.com/huynhspm/OneUET-Project.git)
 </details>
 
 --------
@@ -54,16 +54,20 @@
   <summary>Click to expand</summary>
 
 📌 [**May 2021 - Advanced Programming**]:
-  * A Snake Game with autoplay using SDL2.
-  * [Github Repo](https://github.com/hoang1007/Snake.git)
+  * A Dinasour Game with like google chorme game with update graphics using SDL2.
+  * [Github Repo](https://github.com/DXL64/FirstProject.git)
+	
+📌 [**May 2021 - Data Structure and Algorithm**]:
+  * A Decision Tree code from scratch with C++.
+  * [Github Repo](https://github.com/DXL64/DecisionTree.git)
 
 📌 [**Oct 2021 - Object Oriented Programming**]:
   * A Dictionary App which can translate from speech, image using JavaFx
-  * [Github Repo](https://github.com/hoang1007/dictionary-oop/tree/graphic)
+  * [Github Repo](https://github.com/DXL64/oopuet-dictionary.git)
 
 📌 [**Dec 2021 - Object Oriented Programming**]:
   * A Bomberman Game using JavaFx
-  * [Github Repo](https://github.com/hoang1007/bomberman.git)
+  * [Github Repo](https://github.com/DXL64/oop-bomberman.git)
 
 </details>
 
@@ -83,9 +87,9 @@
 
 # <img src="assets/handshake.gif" width="50px"> Connect with me
 <p align="center">
-	<a href="hoangvuhuy1808@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/hoang1007"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/hoang-vu-huy-238087215/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/hoang1007"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/hoang.20021007"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="dxl.work@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/DXL64"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/dxl64/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100007850940897"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://https://www.instagram.com/lldangxuanloc/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
